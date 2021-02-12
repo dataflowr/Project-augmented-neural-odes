@@ -1,3 +1,7 @@
+# Introduction: Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond
+
+Have a look at these very nice [tutorials](http://implicit-layers-tutorial.org/)
+
 # Augmented Neural ODEs
 
 This repo contains code for the paper [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) (2019).
